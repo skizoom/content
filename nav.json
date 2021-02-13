@@ -1,4 +1,5 @@
 [
   { "label": "Ski Resort Guides", "items": [{ "label": "Austria" }] },
-  { "label": "France", "items": [] }
+  { "label": "France", "items": [] },
+  { "label": "Italy", "items": [] }
 ]
