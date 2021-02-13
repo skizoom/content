@@ -1,5 +1,17 @@
 [
-  { "label": "Ski Resort Guides", "items": [{ "label": "Austria" }] },
+  {
+    "label": "Ski Resort Guides",
+    "items": [
+      {
+        "label": "Austria",
+        "items": [
+          { "label": "Alpbach" },
+          { "label": "Balderschwang" },
+          { "label": "Kaprun" }
+        ]
+      }
+    ]
+  },
   { "label": "France", "items": [] },
   { "label": "Italy", "items": [] }
 ]
