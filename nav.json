@@ -13,6 +13,7 @@
       }
     ]
   },
-  { "label": "France", "items": [] },
-  { "label": "Italy", "items": [] }
+  { "label": "About", "items": [], "link": "/about-us" },
+  { "label": "Contact", "items": [], "link": "/contact" }
+  
 ]
